@@ -1,4 +1,8 @@
 # A1
+- Three ways of sum number from 0 to n:
+  - Iteration from 0 to n, each time sum up the number : 1+2+3..n
+  - Use high level function, reduce to sum up to the number n
+  - user mathematical formula
 
 # A2
 
