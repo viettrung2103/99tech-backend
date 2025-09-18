@@ -65,3 +65,8 @@ A simple REST API for managing jobs and users, built with **TypeScript**, **Expr
 ```
   
 # A3
+These are the Sequence Diagram and Activity Diagram of a3
+- Activity diagram
+![activity-diagram](./media//activity-diagram.png)
+- Sequence diagram
+![sequence-diagram](./media/sequence-diagram.png)
