@@ -28,6 +28,7 @@ A simple REST API for managing jobs and users, built with **TypeScript**, **Expr
 
 - Clone this project
 - cd a2/
+- change file named `.env.example`to `.env`
 - npm i
 - npm run dev
 
